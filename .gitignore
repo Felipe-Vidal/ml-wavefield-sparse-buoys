@@ -1,0 +1,9 @@
+# Ignore generated data, weights, and logs
+data/*
+!data/README.txt
+
+weights/*
+!weights/README.txt
+
+logs/*
+!logs/README.txt
